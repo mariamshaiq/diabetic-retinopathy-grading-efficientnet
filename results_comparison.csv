@@ -1,0 +1,6 @@
+Metric,Paper Result,Reproduced Result
+Accuracy,0.91,0.7572
+Precision (Macro),N/R,0.5973
+Recall (Macro),N/R,0.6388
+F1-Score (Macro),N/R,0.6059
+AUC (Macro OvR),0.9949,0.9138
