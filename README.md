@@ -60,6 +60,7 @@ Class imbalance handled via `WeightedRandomSampler`.
 diabetic-retinopathy-grading-efficientnet/
 │
 ├── DR_Grading_EfficientNetB0_APTOS2019.ipynb   # Main notebook (run this)
+├── Diabetic Retinopathy Grading EfficientNet Reproduction Report.pdf # Report
 ├── README.md                          # This file
 ├── requirements.txt                   # Python dependencies
 │
